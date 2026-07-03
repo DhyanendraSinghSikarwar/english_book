@@ -77,8 +77,21 @@ Each chapter is a separate markdown file. Read them in order for a full course, 
 ### Part 10 — Practice & Reference
 - [Practice & Reference: 30 role-plays, checklist, 50-sentence card](38-practice-reference.md)
 
+### Part 11 — Professional Idioms (200)
+- [Chapter 40: Idioms — Meetings & Communication](40-idioms-communication.md)
+- [Chapter 41: Idioms — Time, Deadlines & Getting Things Done](41-idioms-time-work.md)
+- [Chapter 42: Idioms — Problems, Risk & Decisions](42-idioms-problems-decisions.md)
+- [Chapter 43: Idioms — People, Teamwork & Office Politics](43-idioms-people-teamwork.md)
+- [Chapter 44: Idioms — Success, Money, Strategy & Growth](44-idioms-success-strategy.md)
+
 ### Appendices
-- [Appendices A–D: master vocab, templates, country notes, DS glossary](39-appendices.md)
+- [Appendices A–D: master vocab, templates, country notes, DS glossary](45-appendices.md)
+
+### Bonus / Extra Material (in the `bonus-extra` folder)
+- [Bonus 1: 120 More Phrasal Verbs](bonus-extra/01-more-phrasal-verbs.md)
+- [Bonus 2: 120 More Power Verbs](bonus-extra/02-more-power-verbs.md)
+- [Bonus 3: 120 More Vocabulary Words](bonus-extra/03-more-vocabulary.md)
+- [Bonus 4: 113 More Professional Idioms](bonus-extra/04-more-idioms.md)
 
 ---
 
