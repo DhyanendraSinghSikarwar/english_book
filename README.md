@@ -10,75 +10,88 @@ This book is written in **simple English** so it's easy to read, even though it 
 
 ## How to read this book
 
-Each chapter is a separate markdown file. Read them in order for a full course, or jump to the part you need. New words and skills build on earlier ones. Use Part 10 (practice) and the Appendices as you go.
+Each chapter is a separate markdown file inside the `english_book` folder. Read them in order for a full course, or jump to the part you need. New words and skills build on earlier ones. Use Part 10 (practice) and the Appendices as you go.
 
 ---
 
 ## Full Table of Contents
 
 ### Front matter
-- [How to Use This Book](00-how-to-use.md) — self-assessment, the 3 registers, English-variant mindset, 90-day study plan.
+- [How to Use This Book](english_book/00-how-to-use.md) — self-assessment, the 3 registers, English-variant mindset, 90-day study plan.
 
 ### Part 1 — The Most-Used Phrasal Verbs at Work (200+)
-- [Chapter 1: Meetings & Discussions](01-phrasal-meetings.md)
-- [Chapter 2: Projects, Tasks & Deadlines](02-phrasal-projects.md)
-- [Chapter 3: Email & Communication](03-phrasal-email.md)
-- [Chapter 4: Problems & Solutions](04-phrasal-problems.md)
-- [Chapter 5: Career & People](05-phrasal-career.md)
-- [Chapter 6: Data & Technical Work (DS special)](06-phrasal-data.md)
+- [Chapter 1: Meetings & Discussions](english_book/01-phrasal-meetings.md)
+- [Chapter 2: Projects, Tasks & Deadlines](english_book/02-phrasal-projects.md)
+- [Chapter 3: Email & Communication](english_book/03-phrasal-email.md)
+- [Chapter 4: Problems & Solutions](english_book/04-phrasal-problems.md)
+- [Chapter 5: Career & People](english_book/05-phrasal-career.md)
+- [Chapter 6: Data & Technical Work (DS special)](english_book/06-phrasal-data.md)
 
 ### Part 2 — The 200 Power Verbs of Business English
-- [Chapter 7: Verbs of Action & Delivery](07-verbs-action.md)
-- [Chapter 8: Verbs of Thinking & Analysis](08-verbs-thinking.md)
-- [Chapter 9: Verbs of Communication](09-verbs-communication.md)
-- [Chapter 10: Verbs of Change & Improvement](10-verbs-change.md)
-- [Chapter 11: Verbs of Management & Leadership](11-verbs-management.md)
+- [Chapter 7: Verbs of Action & Delivery](english_book/07-verbs-action.md)
+- [Chapter 8: Verbs of Thinking & Analysis](english_book/08-verbs-thinking.md)
+- [Chapter 9: Verbs of Communication](english_book/09-verbs-communication.md)
+- [Chapter 10: Verbs of Change & Improvement](english_book/10-verbs-change.md)
+- [Chapter 11: Verbs of Management & Leadership](english_book/11-verbs-management.md)
 
 ### Part 3 — Vocabulary Upgrade: Simple → Professional
-- [Chapter 12: The Master Upgrade List (300+ words)](12-vocab-upgrade-list.md)
-- [Chapter 13: Upgrading Full Sentences](13-vocab-sentences.md)
-- [Chapter 14: Words to STOP Using (Indian → International)](14-vocab-stop-using.md)
-- [Chapter 15: British vs American vs Indian English Map](15-vocab-english-map.md)
+- [Chapter 12: The Master Upgrade List (300+ words)](english_book/12-vocab-upgrade-list.md)
+- [Chapter 13: Upgrading Full Sentences](english_book/13-vocab-sentences.md)
+- [Chapter 14: Words to STOP Using (Indian → International)](english_book/14-vocab-stop-using.md)
+- [Chapter 15: British vs American vs Indian English Map](english_book/15-vocab-english-map.md)
 
 ### Part 4 — Presentations: Every Scenario Scripted
-- [Chapter 16: Opening a Presentation](16-present-opening.md)
-- [Chapter 17: The Body — Presenting Content](17-present-body.md)
-- [Chapter 18: Closing & Q&A](18-present-closing-qa.md)
-- [Chapter 19: Special Presentation Scenarios](19-present-special.md)
-- [Chapter 20: Delivery Skills](20-present-delivery.md)
+- [Chapter 16: Opening a Presentation](english_book/16-present-opening.md)
+- [Chapter 17: The Body — Presenting Content](english_book/17-present-body.md)
+- [Chapter 18: Closing & Q&A](english_book/18-present-closing-qa.md)
+- [Chapter 19: Special Presentation Scenarios](english_book/19-present-special.md)
+- [Chapter 20: Delivery Skills](english_book/20-present-delivery.md)
 
 ### Part 5 — Meetings: Hosting & Participating
-- [Chapter 21: Before the Meeting](21-meetings-before.md)
-- [Chapter 22: Opening & Hosting](22-meetings-hosting.md)
-- [Chapter 23: Managing the Discussion](23-meetings-discussion.md)
-- [Chapter 24: Decisions & Closing](24-meetings-decisions.md)
-- [Chapter 25: Meeting Types — Complete Playbooks](25-meetings-types.md)
+- [Chapter 21: Before the Meeting](english_book/21-meetings-before.md)
+- [Chapter 22: Opening & Hosting](english_book/22-meetings-hosting.md)
+- [Chapter 23: Managing the Discussion](english_book/23-meetings-discussion.md)
+- [Chapter 24: Decisions & Closing](english_book/24-meetings-decisions.md)
+- [Chapter 25: Meeting Types — Complete Playbooks](english_book/25-meetings-types.md)
 
 ### Part 6 — Written Communication
-- [Chapter 26: Email Mastery (20 templates)](26-writing-email.md)
-- [Chapter 27: Chat & Slack/Teams Language](27-writing-chat.md)
-- [Chapter 28: Documents & Reports](28-writing-reports.md)
-- [Chapter 29: LinkedIn & Professional Presence](29-writing-linkedin.md)
+- [Chapter 26: Email Mastery (20 templates)](english_book/26-writing-email.md)
+- [Chapter 27: Chat & Slack/Teams Language](english_book/27-writing-chat.md)
+- [Chapter 28: Documents & Reports](english_book/28-writing-reports.md)
+- [Chapter 29: LinkedIn & Professional Presence](english_book/29-writing-linkedin.md)
 
 ### Part 7 — Business Knowledge & Models
-- [Chapter 30: Business Models in Plain English](30-business-models.md)
-- [Chapter 31: Business & Finance Vocabulary for Data Scientists](31-business-finance.md)
-- [Chapter 32: Corporate Jargon Decoder (100 phrases)](32-business-jargon.md)
+- [Chapter 30: Business Models in Plain English](english_book/30-business-models.md)
+- [Chapter 31: Business & Finance Vocabulary for Data Scientists](english_book/31-business-finance.md)
+- [Chapter 32: Corporate Jargon Decoder (100 phrases)](english_book/32-business-jargon.md)
 
 ### Part 8 — Working & Living in Europe
-- [Chapter 33: Cross-Cultural Communication](33-europe-culture.md)
-- [Chapter 34: Small Talk & Relationship Building](34-europe-smalltalk.md)
-- [Chapter 35: Job Interviews & Career Conversations](35-europe-interviews.md)
+- [Chapter 33: Cross-Cultural Communication](english_book/33-europe-culture.md)
+- [Chapter 34: Small Talk & Relationship Building](english_book/34-europe-smalltalk.md)
+- [Chapter 35: Job Interviews & Career Conversations](english_book/35-europe-interviews.md)
 
 ### Part 9 — Grammar & Pronunciation Polish
-- [Chapter 36: The 30 Grammar Errors Indian Speakers Make Most](36-grammar-errors.md)
-- [Chapter 37: Pronunciation & Clarity](37-pronunciation.md)
+- [Chapter 36: The 30 Grammar Errors Indian Speakers Make Most](english_book/36-grammar-errors.md)
+- [Chapter 37: Pronunciation & Clarity](english_book/37-pronunciation.md)
 
 ### Part 10 — Practice & Reference
-- [Practice & Reference: 30 role-plays, checklist, 50-sentence card](38-practice-reference.md)
+- [Practice & Reference: 30 role-plays, checklist, 50-sentence card](english_book/38-practice-reference.md)
+
+### Part 11 — Professional Idioms (200)
+- [Chapter 40: Idioms — Meetings & Communication](english_book/40-idioms-communication.md)
+- [Chapter 41: Idioms — Time, Deadlines & Getting Things Done](english_book/41-idioms-time-work.md)
+- [Chapter 42: Idioms — Problems, Risk & Decisions](english_book/42-idioms-problems-decisions.md)
+- [Chapter 43: Idioms — People, Teamwork & Office Politics](english_book/43-idioms-people-teamwork.md)
+- [Chapter 44: Idioms — Success, Money, Strategy & Growth](english_book/44-idioms-success-strategy.md)
 
 ### Appendices
-- [Appendices A–D: master vocab, templates, country notes, DS glossary](39-appendices.md)
+- [Appendices A–D: master vocab, templates, country notes, DS glossary](english_book/45-appendices.md)
+
+### Bonus / Extra Material (in the `bonus-extra` folder)
+- [Bonus 1: 120 More Phrasal Verbs](english_book/bonus-extra/01-more-phrasal-verbs.md)
+- [Bonus 2: 120 More Power Verbs](english_book/bonus-extra/02-more-power-verbs.md)
+- [Bonus 3: 120 More Vocabulary Words](english_book/bonus-extra/03-more-vocabulary.md)
+- [Bonus 4: 113 More Professional Idioms](english_book/bonus-extra/04-more-idioms.md)
 
 ---
 
