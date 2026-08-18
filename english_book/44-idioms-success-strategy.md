@@ -2,7 +2,7 @@
 
 This final idioms chapter covers 40 idioms about winning, money, strategy, and business growth. These come up when you talk about results, plans, and the health of the business — useful for connecting your data work to business value.
 
-**How to read each entry:** the idiom, a simple meaning, examples, and a short workplace scene. **[Casual]** = informal. **[Careful]** = may confuse non-native speakers.
+**How to read each entry:** the idiom, a simple meaning, three examples, a mini-scenario, a formal alternative, and an Indian-English pitfall. **[Casual]** = informal. **[Careful]** = may confuse non-native speakers.
 
 ---
 
